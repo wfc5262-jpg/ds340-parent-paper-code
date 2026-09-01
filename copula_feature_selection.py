@@ -1,4 +1,3 @@
-!pip -q install ucimlrepo
 
 # ======================================================
 # Gumbel λU Feature Selection
